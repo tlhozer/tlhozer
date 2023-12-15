@@ -1,3 +1,1 @@
-Merhaba, ben Talha Özer! 19 yaşındayım ve 5 yıldan beri yazılım alanında kendimi sürekli olarak geliştirmekteyim. Masaüstü ve web uygulamaları konusundaki deneyimlerimle çözüm odaklı bir yaklaşımı projelerime yansıtıyorum. Kreatif düşünceye sahip olmam ve yenilikçi yaklaşımlara olan hevesim, projelerimde fark yaratma arzumu besliyor.
-Ayrıca, yapay zeka konusundaki ilgim beni teknolojinin geleceğine dair heyecanlandırıyor. Bu alandaki gelişmeleri takip etmek ve kendi projelerimde kullanmak, benim için hem tutku hem de öğrenme fırsatı anlamına geliyor.
-Eğer siz de benimle bu heyecan verici teknoloji yolculuğunu paylaşmak istiyorsanız, lütfen iletişime geçmekten çekinmeyin!
+
